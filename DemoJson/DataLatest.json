@@ -1,0 +1,208 @@
+{
+    "vehicle": {
+        "1685439670.284194": {
+            "Date": "30 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_3_1685439670.284194.jpg"
+        },
+        "1685439676.625192": {
+            "Date": "30 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 2",
+            "Location": "Entrance Gate",
+            "Violation": "Wrong Parking",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_6_1685439676.625192.jpg"
+        },
+        "1685439676.854193": {
+            "Date": "30 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_1_1685439676.854193.jpg"
+        },
+        "16854396812.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"16854396182.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"1685439685.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"1685439686.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"16854395682.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"1685435682.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"1685434682.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"1685239682.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"1685431682.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"1685439282.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"1685339682.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"1684439682.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"16856396382.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"16856396812.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"16856396182.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"16856396822.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"16856396823.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"1685639681.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        },"1685639680.004454": {
+            "Date": "31 May, 2023",
+            "Time": "15:11",
+            "Camera": "Camera 1",
+            "Location": "Entrance Gate",
+            "Violation": "Speed Violation",
+            "Number_Plate": "-",
+            "Image": "captured_violation/speed_violation_car_10_1685439682.004454.jpg"
+        }
+    },
+    "people": {
+        "1685439963.151607": {
+            "Date": "31 May, 2023",
+            "Time": "15:16",
+            "Camera": "Camera 6",
+            "Location": "Main gate",
+            "Violation": "Intrusion Alert",
+            "Number_Plate": "-",
+            "Image": "captured_violation/intrusion_alert_person_15_1685439963.151607.jpg"
+        },
+        "1685440019.191715": {
+            "Date": "31 May, 2023",
+            "Time": "15:16",
+            "Camera": "Camera 6",
+            "Location": "Main gate",
+            "Violation": "Intrusion Alert",
+            "Number_Plate": "-",
+            "Image": "captured_violation/intrusion_alert_person_24_1685440019.191715.jpg"
+        }
+    },
+    "V_countNW": 3,
+    "V_countSE": 2,
+    "P_countNW": 6,
+    "P_countSE": 7
+}

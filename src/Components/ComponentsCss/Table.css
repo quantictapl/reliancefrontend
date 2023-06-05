@@ -1,0 +1,194 @@
+.table {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 1rem;
+    position: relative;
+    border-radius:8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+    
+  }
+  
+  .table-title {
+    display: grid;
+    border-top-right-radius:8px;
+    border-top-left-radius:8px;
+    width: 100%;
+    grid-template-columns: repeat(7, 1fr);
+    margin-top: 0.5rem;
+    background-color: rgb(9, 44, 93);
+    border-left: solid 0.3px rgb(68, 68, 68);
+    border-right: solid 0.3px rgb(68, 68, 68);
+    text-align: center;
+    
+    
+    
+  }
+  
+  .table-content {
+    margin-top: 0;
+    display: grid;
+    width: 100%;
+    height:10%;
+    max-height:75vh;
+    grid-template-columns: repeat(7, 1fr);
+    /* border: solid 0.3px rgb(68, 68, 68); */
+    text-align: center;
+    overflow-y: auto;
+    border-radius: 8px;
+
+  }
+  .table-content::-webkit-scrollbar {
+    width: 1px; /* width of the scrollbar */
+  }
+  
+  .table-content > :nth-child(14n+1),
+  .table-content > :nth-child(14n+2),
+  .table-content > :nth-child(14n+3),
+  .table-content > :nth-child(14n+4),
+  .table-content > :nth-child(14n+5),
+  .table-content > :nth-child(14n+6),
+  .table-content > :nth-child(14n+7) {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .title {
+    color: azure;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    /* border-left: solid 0.3px rgb(180, 200, 211); */
+    border-right: solid 0.3px rgb(180, 200, 211);
+    font-size: large;
+    border-radius: 3%;
+  }
+  .title-date{
+    border-left: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+  }
+  .title-img{
+    border-right: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+  }
+  
+  .table-body {
+    display: flex;
+    color: rgb(15, 15, 102);
+    /* margin-top: 5px;
+    margin-bottom: 5px; */
+    padding-top: 0.5rem;
+    padding-bottom:0.5rem;
+    /* border-left: solid 0.3px rgb(68, 68, 68); */
+    border-right: solid 0.3px rgb(180, 200, 211);
+    background-color: rgb(241, 244, 249);
+    align-items: center;
+    justify-content: center;
+    font-size: small;
+  }
+  
+  .image-col{
+    border-right:none;
+    border-bottom-right-radius: 8px;
+    
+  }
+  .table-date{
+    border-left: none;
+    border-bottom: none;
+    border-bottom-left-radius: 8px;
+  }
+  /* .modal-overlay{
+    position:absolute; 
+    align-items:center;
+    left:50%;
+    right:50%;
+    width:50px;
+    height:50px;
+    opacity:0.6;
+  } */
+  .moal-content{
+    opacity:1;
+  }
+  .full-image{
+    height:500px;
+    aspect-ratio: 16/9;
+    /* opacity:0.9; */
+  
+  }
+  .open-image-button{
+    border:solid 0.3px rgb(218, 218, 218);
+    width:6rem;
+    background-color: aliceblue;
+    color: rgb(92, 92, 92);
+    padding:4px;
+    border-radius: 4px;
+  }
+  .open-image-button:hover{
+    background-color: rgb(5, 5, 85);
+    color: white;
+    font-weight: 700;
+  }
+  .first-btn{
+    background-color: rgb(241, 244, 249);
+    color: rgb(16, 20, 53);
+  }
+  .second-btn{
+    background-color: rgb(255, 255, 255);
+    color: rgb(18, 15, 56);
+  }
+  .modal-overlay{
+    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    align-items: center;
+    justify-content: center;
+    width:fit-content;
+    height: fit-content;
+    padding-bottom:20px;
+    position:absolute;
+    background-color: transparent;
+    backdrop-filter: blur(10px);
+    top:20%;
+    left:20%;
+  }
+  .modal-content{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    
+  }
+  .closer{
+    display: flex;
+    width:100%;
+    height:1.5rem;
+    background-color: transparent;
+  
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .close-btn{
+    margin-right: 5px;
+    border: none;
+    background: none;
+  }
+  .close-btn:hover .close-icon{
+    color:red;
+  }
+  .close-icon{
+    color:black;
+    height:24px;
+    width:24px;
+    margin-right: 5px;
+  }
+ 
+/* .row{
+    display:flex;
+    
+}
+.blue-style{
+    background-color: rgb(228, 228, 228);
+}
+.white-styel{
+    background-color: rgb(255, 255, 255);
+} */

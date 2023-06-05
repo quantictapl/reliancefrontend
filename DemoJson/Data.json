@@ -1,0 +1,136 @@
+{"1":{
+    "Date":"2023-05-16",
+    "Time":"10:00",
+    "Camera":"IP:198.1.23.453",
+    "Location":"Entrance GateWay",
+    "Violation":"Camera Tampering",
+    "Number_Plate":"TN 29DH 4949",
+    "Image":"/Images/Puppy.jpg"
+},
+"2":{
+    "Date":"2023-05-16",
+    "Time":"10:00",
+    "Camera":"IP:198.1.23.453",
+    "Location":"Inventory",
+    "Violation":"Speed",
+    "Number_Plate":"TN 30VA 9452",
+    "Image":"/Images/Dog2.jpg"
+},
+"3":{
+    "Date":"2023-05-16",
+    "Time":"10:00",
+    "Camera":"IP:198.1.23.453",
+    "Location":"Exit Gate",
+    "Violation":"Crowded",
+    "Number_Plate":"AP 30DM 6969",
+    "Image":"Images/Dog1.jpg"
+},
+"4":{
+    "Date":"2023-05-16",
+    "Time":"10:00",
+    "Camera":"IP:198.1.23.453",
+    "Location":"Inventory",
+    "Violation":"Wrong Parking",
+    "Number_Plate":"",
+    "Image":"Images/Dog3.jpg"
+},
+"5":{
+    "Date":"2023-05-16",
+    "Time":"10:00",
+    "Camera":"IP:194.1.43.710",
+    "Location":"Exit Gate",
+    "Violation":"Wrong Direction",
+    "Number_Plate":"KA 30VA 5040",
+    "Image":"Images/wrong_direction_car_3.jpg"
+},
+"6":{
+    "Date":"2023-05-16",
+    "Time":"10:00",
+    "Camera":"IP:196.3.66.666",
+    "Location":"Inventory",
+    "Violation":"Camera Tampering",
+    "Number_Plate":"PY 30KM 8920",
+    "Image":"Images/Puppy.jpg"
+},
+"7":{
+    "Date":"2023-05-16",
+    "Time":"10:00",
+    "Camera":"IP:197.5.23.459",
+    "Location":"Exit Gate",
+    "Violation":"Speed",
+    "Number_Plate":"LW 50PA 8383",
+    "Image":""
+},
+"8":{
+    "Date":"2023-05-16",
+    "Time":"10:00",
+    "Camera":"IP:198.2.23.543",
+    "Location":"Entrance GateWay",
+    "Violation":"Camera Tampering",
+    "Number_Plate":"",
+    "Image":""
+},
+"9":{
+    "Date":"2023-05-17",
+    "Time":"10:00",
+    "Camera":"IP:198.1.23.453",
+    "Location":"Inventory",
+    "Violation":"Wrong Direction",
+    "Number_Plate":"HP 43NA 7732",
+    "Image":"Images/Puppy.jpg"
+},
+"10":{
+    "Date":"2023-05-17",
+    "Time":"10:00",
+    "Camera":"IP:198.1.23.453",
+    "Location":"Crowded",
+    "Violation":"Camera Tampering",
+    "Number_Plate":"",
+    "Image":"Images/Puppy.jpg"
+},
+"11":{
+    "Date":"2023-05-17",
+    "Time":"10:00",
+    "Camera":"IP:198.1.23.453",
+    "Location":"Exit Gate",
+    "Violation":"Wrong Parking",
+    "Number_Plate":"KL 30PA 8457",
+    "Image":"/Images/Puppy.jpg"
+},
+"12":{
+    "Date":"2023-05-17",
+    "Time":"10:00",
+    "Camera":"IP:198.1.23.453",
+    "Location":"Entrance GateWay",
+    "Violation":"Camera Tampering",
+    "Number_Plate":"GT 43LA 4567",
+    "Image":"Images/Puppy.jpg"
+},
+"13":{
+    "Date":"2023-05-17",
+    "Time":"10:00",
+    "Camera":"IP:198.1.23.453",
+    "Location":"Entrance GateWay",
+    "Violation":"Camera Tampering",
+    "Number_Plate":"",
+    "Image":"/Images/Puppy.jpg"
+},
+"14":{
+    "Date":"2023-05-17",
+    "Time":"10:00",
+    "Camera":"IP:198.1.23.453",
+    "Location":"Exit Gate",
+    "Violation":"Speed",
+    "Number_Plate":"",
+    "Image":"/Images/Puppy.jpg"
+},
+"15":{
+    "Date":"2023-05-17",
+    "Time":"10:00",
+    "Camera":"IP:198.1.23.453",
+    "Location":"Entrance GateWay",
+    "Violation":"Camera Tampering",
+    "Number_Plate":"MP 43PY 3468",
+    "Image":"/Images/Puppy.jpg"
+}
+}

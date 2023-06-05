@@ -1,0 +1,119 @@
+{    
+    "6": {
+        "Date": "29 May, 2023",
+        "Time": "12:33",
+        "Camera": "sample_videos/count_vehicle.mp4",
+        "Location": "Entrance Gate",
+        "Violation": "Speed Violation",
+        "Number_Plate": "-",
+        "Image": "Images/speed_violation_car_6.jpg"
+    },
+    "1": {
+        "Date": "29 May, 2023",
+        "Time": "12:33",
+        "Camera": "sample_videos/count_vehicle.mp4",
+        "Location": "Entrance Gate",
+        "Violation": "Speed Violation",
+        "Number_Plate": "-",
+        "Image": "Images/speed_violation_car_1.jpg"
+    },
+    "10": {
+        "Date": "29 May, 2023",
+        "Time": "12:33",
+        "Camera": "sample_videos/count_vehicle.mp4",
+        "Location": "Entrance Gate",
+        "Violation": "Speed Violation",
+        "Number_Plate": "-",
+        "Image": "Images/speed_violation_car_10.jpg"
+    },
+    "17": {
+        "Date": "29 May, 2023",
+        "Time": "12:33",
+        "Camera": "sample_videos/count_vehicle.mp4",
+        "Location": "Entrance Gate",
+        "Violation": "Speed Violation",
+        "Number_Plate": "-",
+        "Image": "Images/speed_violation_car_17.jpg"
+    },
+    "18": {
+        "Date": "29 May, 2023",
+        "Time": "12:33",
+        "Camera": "sample_videos/count_vehicle.mp4",
+        "Location": "Entrance Gate",
+        "Violation": "Speed Violation",
+        "Number_Plate": "-",
+        "Image": "Images/speed_violation_truck_18.jpg"
+    },
+    "14": {
+        "Date": "29 May, 2023",
+        "Time": "12:33",
+        "Camera": "sample_videos/count_vehicle.mp4",
+        "Location": "Entrance Gate",
+        "Violation": "Speed Violation",
+        "Number_Plate": "-",
+        "Image": "Images/speed_violation_truck_14.jpg"
+    },
+    "15": {
+        "Date": "29 May, 2023",
+        "Time": "12:36",
+        "Camera": "sample_videos/CCTV_People.mp4",
+        "Location": "Main gate",
+        "Violation": "Intrusion Alert",
+        "Number_Plate": "-",
+        "Image": "Images/intrusion_alert_person_15.jpg"
+    },
+    "24": {
+        "Date": "29 May, 2023",
+        "Time": "12:37",
+        "Camera": "sample_videos/CCTV_People.mp4",
+        "Location": "Main gate",
+        "Violation": "Intrusion Alert",
+        "Number_Plate": "-",
+        "Image": "Images/intrusion_alert_person_24.jpg"
+    },
+    "22": {
+        "Date": "29 May, 2023",
+        "Time": "12:39",
+        "Camera": "sample_videos/Parking.mp4",
+        "Location": "Restricted Area",
+        "Violation": "Wrong Parking",
+        "Number_Plate": "-",
+        "Image": "Images/wrong_parking_car_2.jpg"
+    },
+    "9": {
+        "Date": "29 May, 2023",
+        "Time": "12:39",
+        "Camera": "sample_videos/Parking.mp4",
+        "Location": "Restricted Area",
+        "Violation": "Wrong Parking",
+        "Number_Plate": "-",
+        "Image": "Images/wrong_parking_truck_9.jpg"
+    },    
+    "3": {
+        "Date": "29 May, 2023",
+        "Time": "12:39",
+        "Camera": "sample_videos/Parking.mp4",
+        "Location": "Restricted Area",
+        "Violation": "Wrong Direction",
+        "Number_Plate": "-",
+        "Image": "Images/wrong_direction_car_3.jpg"
+    },
+    "5": {
+        "Date": "29 May, 2023",
+        "Time": "13:22",
+        "Camera": "sample_videos/LPR_video.mp4",
+        "Location": "Main gate",
+        "Violation": "Wrong Direction",
+        "Number_Plate": "-",
+        "Image": "Images/wrong_direction_car_5.jpg"
+    },
+    "2": {
+        "Date": "29 May, 2023",
+        "Time": "13:22",
+        "Camera": "sample_videos/LPR_video.mp4",
+        "Location": "Main gate",
+        "Violation": "Wrong Direction",
+        "Number_Plate": "HR 36 X 0068",
+        "Image": "Images/wrong_direction_car_2.jpg"
+    } 
+}

@@ -1,0 +1,574 @@
+{
+    "30-05-2023": {
+        "vehicle": {
+            "count": [
+                8,
+                10
+            ],
+            "violation": 9,
+            "frequent_violation": {
+                "Speed Violation": 4,
+                "Wrong Direction": 3
+            },
+            "most_violated_area": "Entrance Gate",
+            "pie_chart": {
+                "labels": [
+                    "Speed Violation",
+                    "Wrong Direction",
+                    "Wrong Parking",
+                    "Without Violation"
+                ],
+                "series": [
+                    {
+                        "data": [
+                            4,
+                            3,
+                            2,
+                            9
+                        ]
+                    }
+                ]
+            },
+            "line_chart": {
+                "series": [
+                    {
+                        "name": "Speed Violation",
+                        "data": [
+                            {"x": "Tue May 30 2023 15:00:00 GMT+0530 (India Standard Time)","y": 3},
+                            {"x": "Tue May 30 2023 16:00:00 GMT+0530 (India Standard Time)","y": 1}
+                        ]
+                    },
+                    {
+                        "name": "Wrong Direction",
+                        "data": [
+                            {"x": "Tue May 30 2023 20:00:00 GMT+0530 (India Standard Time)","y": 2},
+                            {"x": "Tue May 30 2023 18:00:00 GMT+0530 (India Standard Time)","y": 1}
+                        ]
+                    },
+                    {
+                        "name": "Wrong Parking",
+                        "data": [
+                            {
+                                "x": "Tue May 30 2023 18:00:00 GMT+0530 (India Standard Time)",
+                                "y": 1
+                            },
+                            {
+                                "x": "Tue May 30 2023 19:00:00 GMT+0530 (India Standard Time)",
+                                "y": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            "recent_incidents": {
+                "Date": [
+                    "",
+                    ""
+                ],
+                "Time": [
+                    
+                ],
+                "Camera": [
+                   
+                ],
+                "Location": [
+                   
+                ],
+                "Violation": [
+                  
+                ],
+                "Number_Plate": [
+                  
+                ],
+                "Image": [
+                    
+                ]
+            }
+        },
+        "people": {
+            "count": [
+                7,
+                6
+            ],
+            "violation": 4,
+            "frequent_violation": {
+                "Intrusion Alert": 4
+            },
+            "most_violated_area": "Main gate",
+            "pie_chart": {
+                "labels": [
+                    "Intrusion Alert",
+                    "Without Violation"
+                ],
+                "series": [
+                    {
+                        "data": [
+                            4,
+                            9
+                        ]
+                    }
+                ]
+            },
+            "line_chart": {
+                "series": [
+                    {
+                        "name": "Intrusion Alert",
+                        "data": [
+                            {
+                                "x": "Tue May 30 2023 15:00:00 GMT+0530 (India Standard Time)",
+                                "y": 3
+                            },
+                            {
+                                "x": "Tue May 30 2023 17:00:00 GMT+0530 (India Standard Time)",
+                                "y": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            "recent_incidents": {
+                "Date": [
+                    "",
+                    ""
+                ],
+                "Time": [
+                  
+                ],
+                "Camera": [
+                    
+                ],
+                "Location": [
+                   
+                ],
+                "Violation": [
+                    
+                ],
+                "Number_Plate": [
+                   
+                ],
+                "Image": [
+                    "captured_violation/intrusion_alert_person_15_1685441074.023591.jpg",
+                    "captured_violation/intrusion_alert_person_24_1685441130.601271.jpg"
+                ]
+            }
+        }
+    },
+    "31-05-2023": {
+        "vehicle": {
+            "count": [
+                8,
+                10
+            ],
+            "violation": 9,
+            "frequent_violation": {
+                "Speed Violation": 4,
+                "Wrong Direction": 3
+            },
+            "most_violated_area": "Entrance Gate",
+            "pie_chart": {
+                "labels": [
+                    "Speed Violation",
+                    "Wrong Direction",
+                    "Wrong Parking",
+                    "Without Violation"
+                ],
+                "series": [
+                    {
+                        "data": [
+                            4,
+                            3,
+                            2,
+                            9
+                        ]
+                    }
+                ]
+            },
+            "line_chart": {
+                "series": [
+                    {
+                        "name": "Speed Violation",
+                        "data": [
+                            {"x": "Tue May 30 2023 15:00:00 GMT+0530 (India Standard Time)","y": 3},
+                            {"x": "Tue May 30 2023 16:00:00 GMT+0530 (India Standard Time)","y": 1}
+                        ]
+                    },
+                    {
+                        "name": "Wrong Direction",
+                        "data": [
+                            {"x": "Tue May 30 2023 20:00:00 GMT+0530 (India Standard Time)","y": 2},
+                            {"x": "Tue May 30 2023 18:00:00 GMT+0530 (India Standard Time)","y": 1}
+                        ]
+                    },
+                    {
+                        "name": "Wrong Parking",
+                        "data": [
+                            {
+                                "x": "Tue May 30 2023 18:00:00 GMT+0530 (India Standard Time)",
+                                "y": 1
+                            },
+                            {
+                                "x": "Tue May 30 2023 19:00:00 GMT+0530 (India Standard Time)",
+                                "y": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            "recent_incidents": {
+                "Date": [
+                    "30-05-2023",
+                    "30-05-2023"
+                ],
+                "Time": [
+                    "20:38",
+                    "20:45"
+                ],
+                "Camera": [
+                    "Camera 3",
+                    "Camera 3"
+                ],
+                "Location": [
+                    "Main gate",
+                    "Main gate"
+                ],
+                "Violation": [
+                    "Wrong Direction",
+                    "Wrong Direction"
+                ],
+                "Number_Plate": [
+                    "-",
+                    "HR 36 X 0068"
+                ],
+                "Image": [
+                    "captured_violation/wrong_direction_car_6_1685441294.850211.jpg",
+                    "captured_violation/wrong_direction_car_1_1685441295.264211.jpg"
+                ]
+            }
+        },
+        "people": {
+            "count": [
+                7,
+                6
+            ],
+            "violation": 4,
+            "frequent_violation": {
+                "Intrusion Alert": 4
+            },
+            "most_violated_area": "Main gate",
+            "pie_chart": {
+                "labels": [
+                    "Intrusion Alert",
+                    "Without Violation"
+                ],
+                "series": [
+                    {
+                        "data": [
+                            4,
+                            9
+                        ]
+                    }
+                ]
+            },
+            "line_chart": {
+                "series": [
+                    {
+                        "name": "Intrusion Alert",
+                        "data": [
+                            {
+                                "x": "Tue May 30 2023 15:00:00 GMT+0530 (India Standard Time)",
+                                "y": 3
+                            },
+                            {
+                                "x": "Tue May 30 2023 17:00:00 GMT+0530 (India Standard Time)",
+                                "y": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            "recent_incidents": {
+                "Date": [
+                    "30-05-2023",
+                    "30-05-2023"
+                ],
+                "Time": [
+                    "15:39",
+                    "17:35"
+                ],
+                "Camera": [
+                    "Camera 6",
+                    "Camera 6"
+                ],
+                "Location": [
+                    "Main gate",
+                    "Main gate"
+                ],
+                "Violation": [
+                    "Intrusion Alert",
+                    "Intrusion Alert"
+                ],
+                "Number_Plate": [
+                    "-",
+                    "-"
+                ],
+                "Image": [
+                    "captured_violation/intrusion_alert_person_15_1685441074.023591.jpg",
+                    "captured_violation/intrusion_alert_person_24_1685441130.601271.jpg"
+                ]
+            }
+        }
+    }, "03-06-2023": {
+        "vehicle": {
+            "count": [
+               
+            ],
+            "violation": 0,
+            "frequent_violation": {
+                
+            },
+            "most_violated_area": "",
+            "pie_chart": {
+                "labels": [
+                    
+                ],
+                "series": [
+                    {
+                        "data": [
+                            
+                        ]
+                    }
+                ]
+            },
+            "line_chart": {
+                "series": [
+                    {
+                        "name": "",
+                        "data": [
+                            {"x": "","y": 0},
+                            {"x": "","y": 0}
+                        ]
+                    }
+                    
+                ]
+            },
+            "recent_incidents": {
+                "Date": [
+                    "",
+                    ""
+                ],
+                "Time": [
+                    
+                ],
+                "Camera": [
+                   
+                ],
+                "Location": [
+                   
+                ],
+                "Violation": [
+                  
+                ],
+                "Number_Plate": [
+                  
+                ],
+                "Image": [
+                    
+                ]
+            }
+        },
+        "people": {
+            "count": [
+                7,
+                6
+            ],
+            "violation": 4,
+            "frequent_violation": {
+                "Intrusion Alert": 4
+            },
+            "most_violated_area": "Main gate",
+            "pie_chart": {
+                "labels": [
+                    "Intrusion Alert",
+                    "Without Violation"
+                ],
+                "series": [
+                    {
+                        "data": [
+                            4,
+                            9
+                        ]
+                    }
+                ]
+            },
+            "line_chart": {
+                "series": [
+                    {
+                        "name": "Intrusion Alert",
+                        "data": [
+                            {
+                                "x": "Tue May 30 2023 15:00:00 GMT+0530 (India Standard Time)",
+                                "y": 3
+                            },
+                            {
+                                "x": "Tue May 30 2023 17:00:00 GMT+0530 (India Standard Time)",
+                                "y": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            "recent_incidents": {
+                "Date": [
+                    "",
+                    ""
+                ],
+                "Time": [
+                  
+                ],
+                "Camera": [
+                    
+                ],
+                "Location": [
+                   
+                ],
+                "Violation": [
+                    
+                ],
+                "Number_Plate": [
+                   
+                ],
+                "Image": [
+                    "captured_violation/intrusion_alert_person_15_1685441074.023591.jpg",
+                    "captured_violation/intrusion_alert_person_24_1685441130.601271.jpg"
+                ]
+            }
+        }
+    },"05-06-2023": {
+        "vehicle": {
+            "count": [8,9
+               
+            ],
+            "violation": 0,
+            "frequent_violation": {
+                "Wrong Direction":4
+            },
+            "most_violated_area": "",
+            "pie_chart": {
+                "labels": [
+                    
+                ],
+                "series": [
+                    {
+                        "data": [
+                            
+                        ]
+                    }
+                ]
+            },
+            "line_chart": {
+                "series": [
+                    {
+                        "name": "",
+                        "data": [
+                            {"x": "","y": 0},
+                            {"x": "","y": 0}
+                        ]
+                    }
+                    
+                ]
+            },
+            "recent_incidents": {
+                "Date": [
+                    "",
+                    ""
+                ],
+                "Time": [
+                    
+                ],
+                "Camera": [
+                   
+                ],
+                "Location": [
+                   
+                ],
+                "Violation": [
+                  
+                ],
+                "Number_Plate": [
+                  
+                ],
+                "Image": [
+                    
+                ]
+            }
+        },
+        "people": {
+            "count": [
+                7,
+                6
+            ],
+            "violation": 4,
+            "frequent_violation": {
+                "Intrusion Alert": 4
+            },
+            "most_violated_area": "Main gate",
+            "pie_chart": {
+                "labels": [
+                    "Intrusion Alert",
+                    "Without Violation"
+                ],
+                "series": [
+                    {
+                        "data": [
+                            4,
+                            9
+                        ]
+                    }
+                ]
+            },
+            "line_chart": {
+                "series": [
+                    {
+                        "name": "Intrusion Alert",
+                        "data": [
+                            {
+                                "x": "Tue May 30 2023 15:00:00 GMT+0530 (India Standard Time)",
+                                "y": 3
+                            },
+                            {
+                                "x": "Tue May 30 2023 17:00:00 GMT+0530 (India Standard Time)",
+                                "y": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            "recent_incidents": {
+                "Date": [
+                    "",
+                    ""
+                ],
+                "Time": [
+                  
+                ],
+                "Camera": [
+                    
+                ],
+                "Location": [
+                   
+                ],
+                "Violation": [
+                    
+                ],
+                "Number_Plate": [
+                   
+                ],
+                "Image": [
+                    "captured_violation/intrusion_alert_person_15_1685441074.023591.jpg",
+                    "captured_violation/intrusion_alert_person_24_1685441130.601271.jpg"
+                ]
+            }
+        }
+    }
+
+}

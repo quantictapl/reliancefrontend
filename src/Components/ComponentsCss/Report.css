@@ -1,0 +1,13 @@
+.dropdown-container{
+    display:flex;
+    width:100%;
+    justify-content: space-between;
+    background-color: rgb(165, 183, 207);
+    padding-top:0.5rem;
+    padding-bottom:0.5rem;
+    border-radius: 8px;
+
+}
+.dropdown{
+    display:flex;
+}
